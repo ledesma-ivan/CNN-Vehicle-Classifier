@@ -127,4 +127,3 @@ For this assignment, you will have to complete with the corresponding code the f
 - `utils/detection.py`: This module loads our detector and implements the logic to get the vehicle coordinate from the image.
 
 Now you have the new dataset in place, it's time to start training a new model and checking the results in the same way as we did for steps items **(3)** and **(4)**.
-# CNN-Vehicle-Classifier
